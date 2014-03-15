@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">c3347115Task2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="teamImageDescription">Tottenham Hotspur Logo</string>
+
+
+    <string name="title_activity_players_adapter">PlayersAdapter</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
